@@ -1,0 +1,79 @@
+Report for Institution Code MVZ, Resource mvzobs_mammal
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Paraguay ; Times: 5
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-14 ; Times: 2
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cebus" ; Times: 1
+	Query: "country:"Paraguay" class:Mammalia media:1" ; Times: 3
+	Query: "Alouatta" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "type:observation class:Mammalia" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "country:"Paraguay" genus:Cebus class:Mammalia" ; Times: 1
+	Query: "lateralis county:"Tulare" stateprovince:"California"" ; Times: 1
+	Query: "country:"Paraguay" media:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1524 download events in this period)
+Total number of records downloaded: 47 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 47
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "country:"paraguay" class:mammalia" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 63
+Total number of records retrieved from searches: 252
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 281
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 70
+Total number of records retrieved from searches: 458
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 738
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
