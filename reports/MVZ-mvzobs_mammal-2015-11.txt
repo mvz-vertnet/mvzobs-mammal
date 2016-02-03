@@ -1,0 +1,53 @@
+Report for Institution Code MVZ, Resource mvzobs_mammal
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alouatta" ; Times: 1
+	Query: "woodrat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 751 download events in this period)
+Total number of records downloaded: 3701
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus californicus" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 38
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+
+
+End of report.
