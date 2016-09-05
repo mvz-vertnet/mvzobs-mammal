@@ -1,0 +1,50 @@
+Report for Institution Code MVZ, Resource mvzobs_mammal
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-26 ; Times: 4
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:1" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;California&#34; institutioncode:MVZ mappable:1" ; Times: 1
+	Query: "bryanti genus:neotoma" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 924 download events in this period)
+Total number of records downloaded: 74
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
