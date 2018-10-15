@@ -1,0 +1,48 @@
+Report for Institution Code MVZ, Resource mvzobs_mammal
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "canis latrans institutioncode:MVZ" ; Times: 1
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Cebus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1398 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+
+
+End of report.
