@@ -1,0 +1,58 @@
+Report for Institution Code MVZ, Resource mvzobs_mammal
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 189
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 11
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-23 ; Times: 4
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chaetodipus specificepithet:californicus mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 3
+	Query: "genus:Tamias specificepithet:speciosus mappable:1" ; Times: 2
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 8
+	Query: "genus:Alouatta specificepithet:caraya mappable:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:bryanti mappable:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:beecheyi mappable:1" ; Times: 2
+	Query: "tamiasciurus hudsonicus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "Ondatra hastissue:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 2
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 8
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1359 download events in this period)
+Total number of records downloaded: 113
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 2
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+
+
+End of report.
