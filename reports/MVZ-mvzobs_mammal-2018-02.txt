@@ -1,0 +1,53 @@
+Report for Institution Code MVZ, Resource mvzobs_mammal
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Guatemala ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis latrans" ; Times: 1
+	Query: "class:Mammalia institutioncode:MVZ" ; Times: 1
+	Query: "tamias speciosus" ; Times: 1
+	Query: "vntype:observation year &gt;= 2000 year &lt;= 2018 basisofrecord:HumanObservation mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1892 download events in this period)
+Total number of records downloaded: 255
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "class:Mammalia institutioncode:MVZ" ; Times: 2
+
+
+End of report.
