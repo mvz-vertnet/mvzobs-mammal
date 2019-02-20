@@ -1,0 +1,40 @@
+Report for Institution Code MVZ, Resource mvzobs_mammal
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 20
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:mvz canis latrans" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:MVZ" ; Times: 1
+	Query: "canis latrans institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 962 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+
+
+End of report.
